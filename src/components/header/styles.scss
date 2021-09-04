@@ -1,0 +1,12 @@
+header {
+    background-color: #ccc;
+    height: 70px;
+    .container {
+        max-width: 980px;
+        margin: 0 auto;
+        .logo{
+            padding: 5px 0;
+            width: 100px;
+        }
+    }
+}
